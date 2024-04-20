@@ -1,0 +1,56 @@
+/* .card{
+    margin: 10px;
+    padding: 5px;
+} */
+
+.country_header{
+    color: white;
+    width: 100%;
+    background-color: black;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin:0px;
+    text-align: center;
+}
+
+.country_flag{
+    width: 200px;
+    height: 120px;
+    margin: 10px;
+}
+
+.card_body{
+    background-image: linear-gradient(to right, #d5c49f , #4c5c58);
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.country_details{
+    color: rgb(248, 241, 241);
+    margin: 2px;
+    padding: 2px;
+}
+
+.btn_primary{
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.content_container{
+    background-color: #585ea0;
+}
+
